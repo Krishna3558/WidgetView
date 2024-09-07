@@ -1,0 +1,24 @@
+.custom-shadow {
+  box-shadow: 
+    inset 0px 3.26px 3.26px 0px #FFFFFF26,
+    inset 0px 0px 48.91px 0px #FFFFFF0D,    
+    9px 10px 7.1px 0px #00000066,           
+    -0.5px -0.5px 6.9px 0px #FFFFFF40;      
+}
+
+.custom-shadow-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 
+      4px 5px 30px 5px #101213, 
+      -5px -3px 30px -10px #96BEE7; 
+}
+
+.custom-shadow-divs {
+    box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+}
+
+.custom-shadow-tabs {
+    box-shadow: 0px 4.96px 12.4px 2.48px #00000040 inset;
+}
